@@ -4,7 +4,7 @@ This repository documents a JL16 website built with WordPress, Astra Pro, Starte
 
 The goal was to build a clean, mobile-friendly branded site that is easy to manage without relying on a heavy custom theme or an overloaded builder stack. WordPress handles content and publishing, Astra Pro manages layout and design controls, Starter Templates helps speed up the initial setup, and Gutenberg keeps day-to-day editing simple once the core structure is in place.
 
-This setup works well for a site like [JL16](https://jl16-login.ph/) because the content usually follows a few clear patterns. Some pages are access-focused, such as JL16 login or app-related help pages. Others are informational, such as pages covering JL16 casino sections or JL16 slot content. There are also utility pages designed to make navigation easier and reduce friction for mobile users.
+This setup works well for a site like [JL16 Login](https://jl16-login.ph/) because the content usually follows a few clear patterns. Some pages are access-focused, such as JL16 login or app-related help pages. Others are informational, such as pages covering JL16 casino sections or JL16 slot content. There are also utility pages designed to make navigation easier and reduce friction for mobile users.
 
 ## Project Goal
 
